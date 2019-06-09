@@ -10,3 +10,4 @@ I want to develop a relational database that is clear in concepts, evolve by int
 How? By providing APIs for user, they can code iteratively and finish the whole system.
 For example, first providing a SQL parser and let them to make an simple backend in an indirection layer.
 
+# MeiDB
